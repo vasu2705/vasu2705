@@ -89,4 +89,4 @@
 <img src="https://img.shields.io/github/stars/Vasu2705?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-![footer](https://github.com/Vasu2705/Vasu2705/blob/master/PNG/footer.png)
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
