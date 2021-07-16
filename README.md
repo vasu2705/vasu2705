@@ -86,3 +86,5 @@
     <img src="https://komarev.com/ghpvc/?username=Vasu2705">
 </a>
 <a href="https://github.com/Vasu2705?tab=followers"><img src="https://img.shields.io/github/followers/Vasu2705?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://img.shields.io/github/stars/Vasu2705?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
