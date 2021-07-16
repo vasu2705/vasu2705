@@ -4,7 +4,7 @@
 <a href="#"><img align="right"  src="https://blush.design/api/download?shareUri=Gv5IKXN_YCe0GHZy&c=Skin_0%7Eb75858-0.2%7Eca8f67&w=800&h=800&fm=png" width="50%" heigth="auto"/></a>
 
 
-## 🙋‍♂ About Me
+##  About Me 🙋‍♂
 
 - 🔭 I’m currently working on  **[CFB MISSION](#)**
 
