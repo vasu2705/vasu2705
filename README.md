@@ -6,15 +6,15 @@
 
 ##  About Me 🙋‍♂
 
-- 🔭 I’m currently working on  **[CFB MISSION](#)**
+- 🔭 At present, I'm working on  **[CFB MISSION](#)**
 
-- 🌱 I’m currently Pursuing **[B.TECH IT'23](#).**
+- 🌱 At present, I’m Pursuing **[B.TECH IT'23](#).**
 
-- 💻 I’m currently an **[Web developer Enthusiasts](#).**
+- 💻 I have made my interest towards the**[Web developer Enthusiasts](#).**
 
 - 👯 I’m looking to collaborate on **[Freelancing Projects](#)**
 
-- 👨‍💻 All of my projects are available at **[Vasudev kanungo](https://vasudevportfolio.herokuapp.com/)**
+- 👨‍💻 All of my projects are available at **[vasudev's portfolio](https://vasudevportfolio.herokuapp.com/)**
 
 - 📫 How to reach me **vasukanungo4040@yahoo.com**
   
@@ -90,5 +90,6 @@
 </p>
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+  <br/>
 <h3 align="center">THANK YOU ❤.</h3>
   <br/>
