@@ -10,7 +10,7 @@
 
 - 🌱 At present, I’m Pursuing **[B.TECH IT'23](#).**
 
-- 💻 I have made my interest towards the**[Web developer Enthusiasts](#).**
+- 💻 I have made my interest towards the **[Web developer Enthusiasts](#).**
 
 - 👯 I’m looking to collaborate on **[Freelancing Projects](#)**
 
