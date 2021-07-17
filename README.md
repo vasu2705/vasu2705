@@ -12,13 +12,13 @@
 
 - 💻 I have made my interest towards the **[Web developer Enthusiasts](#).**
 
-- 👯 I’m looking to collaborate on **[Freelancing Projects](#)**
+- 👯 I’m looking for collaboration on **[Freelancing Projects](#)**
 
 - 👨‍💻 All of my projects are available at **[vasudev's portfolio](https://vasudevportfolio.herokuapp.com/)**
 
 - 📫 How to reach me **vasukanungo4040@yahoo.com**
   
-- ⚡ Fun fact **I like to sing and go to the GYM very often.**
+- ⚡ Fun fact **I love to sing and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
