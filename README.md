@@ -6,13 +6,13 @@
 
 ##  About Me 🙋‍♂
 
-- 🔭 At present, I'm working on  **[CFB MISSION](#)**
+- 🔭 At present, I'm working on  **CFB MISSION**
 
-- 🌱 At present, I’m Pursuing **[B.TECH IT'23](#).**
+- 🌱 At present, I’m Pursuing **B.TECH IT'23.**
 
-- 💻 I have made my interest towards the **[Web developer Enthusiasts](#).**
+- 💻 I have made my interest towards the **Web developer Enthusiasts.**
 
-- 👯 I’m looking for collaboration on **[Freelancing Projects](#)**
+- 👯 I’m looking for collaboration on **Freelancing Projects**
 
 - 👨‍💻 All of my projects are available at **[vasudev's portfolio](https://vasudevportfolio.herokuapp.com/)**
 
