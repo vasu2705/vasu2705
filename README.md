@@ -21,7 +21,7 @@
 - ⚡ Fun fact **I love to sing and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
-
+<a href="https://app.daily.dev/vasu27"><img src="https://api.daily.dev/devcards/85dad563f9ea46dfa2976cf0a35174a1.png?r=h8i" width="400" align="right" alt="VASUDEV KANUNGO :IT19-1127's Dev Card"/></a>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
